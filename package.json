@@ -15,6 +15,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "glightbox": "^3.2.0"
   }
 }

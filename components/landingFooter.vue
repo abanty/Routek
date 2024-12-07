@@ -4,7 +4,7 @@
               <div class="container mt-5">
             <div class="row text-white justify-content-center mt-3 pb-3">
                 <div class="col-12 col-sm-12 col-lg-12 mx-auto">
-                    <h5 class="text-capitalize fw-bold">Absytech</h5>
+                    <h5 class="text-capitalize fw-bold">Routek</h5>
                     <hr class="bg-white d-inline-block mb-4" style="width: 60px; height: 2px" />
                     <p class="lh-lg">
                         Perfil dedicado al desarrollo de soluciones web a medida.
@@ -68,7 +68,7 @@
                         </svg>
                     </div>
                     <div class="contact-box__info">
-                        <a href="#" class="contact-box__info--title">absytech@absytech.com</a>
+                        <a href="#" class="contact-box__info--title">Routek@routek.com</a>
                         <p class="contact-box__info--subtitle">Soporte en línea 24/7</p>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="col-12">
                         <div class="footer-bottom__copyright">
                             &COPY; Copyright 2023 <a href="#">Perfil</a> | Creado por
-                            <a href="http://codewithpatrick.com" target="_blank">Absytech</a><br /><br />
+                            <a href="http://codewithpatrick.com" target="_blank">Routek</a><br /><br />
 <!-- 
                             Distributed by
                             <a href="http://themewagon.com" target="_blank">ThemeWagon</a> -->

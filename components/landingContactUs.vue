@@ -2,7 +2,7 @@
     <section id="contact" class="get-started">
         <div class="container">
             <div class="row text-center mt-5">
-                <h1 class="display-3 fw-bold text-capitalize">Contáctame</h1>
+                <h1 class="display-3 fw-bold text-capitalize">Contáctanos</h1>
                 <div class="heading-line"></div>
                 <p class="lh-lg">
                     Dando vida a tus ideas en el mundo digital.

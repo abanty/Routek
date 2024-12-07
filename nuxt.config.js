@@ -28,8 +28,8 @@ export default defineNuxtConfig({
       ],
     },
     pageTransition: { name: 'page', mode: 'out-in' },
-  },  
-  css: ["~/assets/css/style.css", "~/assets/css/fontawesome.css"],
+  },
+  css: ["~/assets/css/style.css", "~/assets/css/fontawesome.css", 'animate.css/animate.min.css'],
   plugins: ["~/plugins/glightbox.client.js"],
   devtools: { enabled: true },
 });

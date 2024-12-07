@@ -5,7 +5,7 @@
                 <!-- START THE CONTENT FOR THE INTRO  -->
                 <div class="col-md-6 intros text-start">
                     <h1 class="display-2">
-                        <span class="display-2--intro">Hey!, Soy Absy</span>
+                        <span class="display-2--intro">Hey!, Soy Routek</span>
                         <span class="display-2--description lh-base">
                             Transformando ideas en experiencias web excepcionales.
                         </span>
@@ -13,7 +13,7 @@
                     <a href="/#contact" style="text-decoration: none !important;">
                         <button type="button" class="rounded-pill btn-rounded">
 
-                            Contáctame
+                            Contáctanos
                             <span><i class="fas fa-arrow-right"></i></span>
                         </button>
                     </a>

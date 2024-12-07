@@ -1,8 +1,9 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="https://www.facebook.com/absytech2023" target="_blank">
-                <img width="130" height="50" src="/images/logo_absy.png" alt="logo image" />
+        <div class="container">          
+
+            <a class="navbar-brand animate__animated  animate__backInLeft" href="https://www.facebook.com/absytech2023" target="_blank">
+                <img width="196" height="38" src="/images/logo_absy.png" alt="logo image" />
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,15 +31,7 @@
                         <NuxtLink to="/files" class="nav-link">Archivos</NuxtLink>
                     </li> -->
                 </ul>
-                <button @click="GoWhatsapp('+51936682191')" type="button" class="rounded-pill btn-rounded">
-                    +51 936682191
-                    <span>
-                        <i class="fas fa-phone-alt"></i>
-                    </span>
-                </button>
-                <a style="    font-size: 30px;
-    margin-left: 20px;
-    color: #c4d4ff;" href="https://www.facebook.com/absytech2023" target="_blank"> <i class="fab fa-facebook"></i></a>
+                <a style="font-size: 30px; margin-left: 20px; color: #09a453;" href="https://www.facebook.com/absytech2023" target="_blank"> <i class="fab fa-facebook"></i></a>
 
             </div>
         </div>
