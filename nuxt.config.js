@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: "Absytech innovación digital",
+      title: "Routek innovación digital",
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
